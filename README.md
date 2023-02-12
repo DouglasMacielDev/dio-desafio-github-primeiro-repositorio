@@ -41,6 +41,5 @@ Um sistema de controle de versão, ou VCS, monitora o histórico de alteraçoes 
 -Defina seu nome de usuário no Git .
 -Defina seu endereço de e-mail de commit no Git .
 
-## Esse é um breve resumo de como fazer para usar o Git/GitHub
 
 
