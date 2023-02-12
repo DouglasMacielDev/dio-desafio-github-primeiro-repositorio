@@ -1,0 +1,17 @@
+-git init-inicializa um novo repositório Git e começa a rastrear um diretório existente.
+
+-git clone-cria uma cópia local de um projeto que já existe remotamente.
+
+-git add-encena uma mudança.
+
+-git commit-salva o instantâneo no histórico do projeto e conclui o processo de rastreamento de alterações
+
+-git status-mostra o status das alterações como não rastreadas, modificadas ou preparadas.
+
+-git branch-mostra os ramos sendo trabalhados localmente.
+
+-git merge-funde linhas de desenvolvimento em conjunto. 
+
+-git pull-atualiza a linha de desenvolvimento local com atualizações de sua contraparte remota.
+
+-git push-atualiza o repositório remoto com qualquer confirmação feita localmente em uma ramificação.
