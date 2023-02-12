@@ -4,7 +4,6 @@ Repositório criado para o Desafio de Projeto.
 ## Links Úteis
 [Sintaxe Basica Markdown](https://www.markdownguide.org/basic-syntax/)
 [Download do Git](https://git-scm.com/download/win)
-[Download do GitHub](
 # Esse é um breve resumo de sobre o Git/GitHub.
 
 ## Sobre o GitHub
